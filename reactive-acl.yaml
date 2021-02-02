@@ -1,5 +1,5 @@
 
-our:
-  test:
-    newvalue: New Value
+acl:
+  application:
+    property  : New Value
 
