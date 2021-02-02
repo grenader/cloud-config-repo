@@ -1,5 +1,4 @@
 
 acl:
   application:
-    property  : New Value
-
+    property  : A values for ACL application loaded from Git
