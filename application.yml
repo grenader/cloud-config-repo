@@ -1,5 +1,6 @@
 
-our:
-  test:
-    property: boot-config33
+acl:
+  generic:
+    property: loaded from application.yml file from Git
+    appname: App Name value loaded from application.yml file from Git
 
